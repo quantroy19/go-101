@@ -6,7 +6,10 @@ This is a repository that provides fundamental Go commands.
 ## Requirement
 
 Preferred for convenience during development:
-- Go 1.21.0 
+- Go 1.21
+
+## Recommend
+- Need go module for each main function
 
 ## Read more
 
