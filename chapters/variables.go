@@ -25,7 +25,7 @@ func main() {
 	fmt.Println("Enter Your Email: ")
 	fmt.Scanln(&email)
 
-	fmt.Println("Enter number of tickets: ")
+	fmt.Println("Enter number of ticketsss: ")
 	fmt.Scanln(&userTickets)
 
 	// book ticket in system
